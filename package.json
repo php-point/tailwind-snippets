@@ -1,0 +1,22 @@
+{
+  "name": "tailwind-snippets",
+  "displayName": "Tailwind snippets",
+  "description": "Pre-build form,table,cards,list etc in tailwind css.",
+  "publisher": "phppoint",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.98.0"
+  },
+  "icon": "icon.png",
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "html",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}

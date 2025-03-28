@@ -1,11 +1,15 @@
 {
-  "name": "tailwind-snippets",
-  "displayName": "Tailwind snippets",
-  "description": "Pre-build form,table,cards,list etc in tailwind css.",
+  "name": "tailwind-elements",
+  "displayName": "Tailwind pre-build elements",
+  "description": "Pre-build components in tailwind css which is easy to code.",
   "publisher": "phppoint",
-  "version": "0.0.1",
+  "version": "1.0.28032025",
   "engines": {
     "vscode": "^1.98.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/php-point/tailwind-snippets.git"
   },
   "icon": "icon.png",
   "categories": [
